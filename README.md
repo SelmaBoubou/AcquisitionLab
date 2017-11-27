@@ -1,6 +1,6 @@
 ## AcquisitionLab
 
-On this repository is about the lab report of the Acquisation course module.
+This repository is about the lab report of the Acquisation course module.
 
 ## Labs
 
