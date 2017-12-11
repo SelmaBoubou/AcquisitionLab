@@ -11,3 +11,8 @@ This repository is about the lab report of the Acquisation course module.
 5. Lab5 - Moving Object Imaging ✅
 6. Lab6 - Matlab and colour images ✅
 
+## Authors 
+Ivan Mikhailov
+Jaafer Al-Tuwayyij
+Selma BOUDISSA
+
