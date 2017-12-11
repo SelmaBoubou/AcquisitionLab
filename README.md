@@ -12,7 +12,7 @@ This repository is about the lab report of the Acquisation course module.
 6. Lab6 - Matlab and colour images ✅
 
 ## Authors 
-Ivan Mikhailov
-Jaafer Al-Tuwayyij
-Selma BOUDISSA
+- Ivan Mikhailov
+- Jaafer Al-Tuwayyij: https://github.com/jaafertwej
+- Selma BOUDISSA
 
